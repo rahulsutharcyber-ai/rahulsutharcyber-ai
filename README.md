@@ -19,11 +19,20 @@ I'm a beginner exploring cybersecurity, ethical hacking, and network defense. I 
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-005A9C?style=for-the-badge&logo=owasp&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logo=lock&logoColor=white)
 ![Hashcat](https://img.shields.io/badge/Hashcat-333333?style=for-the-badge&logo=hashnode&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-222222?style=for-the-badge&logo=rss&logoColor=white)
+![Hydra](https://img.shields.io/badge/THC_Hydra-FF0000?style=for-the-badge&logo=shield&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-E32219?style=for-the-badge&logo=sqlite&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-111111?style=for-the-badge&logo=target&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-008080?style=for-the-badge&logo=go&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort_IDS-CC0000?style=for-the-badge&logo=security-scorecard&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-F36F21?style=for-the-badge&logo=threat-intelligence&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-004080?style=for-the-badge&logo=ram&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy_Forensics-4B0082?style=for-the-badge&logo=search&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-2E8B57?style=for-the-badge&logo=codeforces&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
