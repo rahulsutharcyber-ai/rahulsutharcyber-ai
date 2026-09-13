@@ -6,6 +6,8 @@ I'm a beginner exploring cybersecurity, ethical hacking, and network defense. I 
 - Goals: Master basic penetration testing, threat analysis, and security automation
 - Ask me about: My learning journey, home lab setups, and CTF challenges
 
+~ Handled by @sankalpsinghcoder-ai
+
 ---
 
 ### Security Tools & Software
